@@ -21,8 +21,8 @@ The program can then be run using the following command line in the bash termina
 node server.js
 ```
 ### Hosted
-The app is hosted using Heroku here at this link: [Heroku Link](https://mysterious-eyrie-18588.herokuapp.com/)
+The app is hosted using Heroku here at this link: [Heroku Link](https://boiling-badlands-43338.herokuapp.com/)
 
 
 ### Questions
-If you have any questions feel free to reach out to my on my github account!
+If you have any questions feel free to reach out to me on my github account!
